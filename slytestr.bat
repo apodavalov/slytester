@@ -1,0 +1,1 @@
+slytestr.exe result.afr
